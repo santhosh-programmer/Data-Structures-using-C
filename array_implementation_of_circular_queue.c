@@ -50,7 +50,7 @@ void display()
     else
     {
         int i;
-        for(i=f;i<r;i=(i+1)%max)
+        for(i=f;i!=r;i=(i+1)%max)
         printf("%d ",q[i]);
         printf("%d\n",q[i]);
     }
