@@ -13,7 +13,10 @@ int pri(char c)
         case '-':return 1;
                  break;
         case '*':
+        case '%':
         case '/':return 2;
+                 break;
+        case '^':return 3;
                  break;
         default: return 0;
     }
@@ -29,6 +32,34 @@ char pop()
     top--;
     return s[a];
 }
+void convert(char ch)
+{
+    if(ch=='+'||ch=='-'||ch=='*'||ch=='/' ||ch=='^')
+        {
+            if(top==-1)
+            push(ch);
+            else
+            {
+                if(pri(s[top])>=pri(ch))
+                {
+                    printf("%c",pop());
+                    convert(ch);
+                }
+                else
+                push(ch);
+            }
+        }
+        else if(ch=='(')
+        push(ch);
+        else if(ch==')')
+        {
+            while(ch!='(')
+            printf("%c",pop());
+            pop();
+        }
+        else if(ch>='a' && ch<='z')
+        printf("%c",ch);
+}
 int main()
 {
     char str[20];
@@ -36,33 +67,7 @@ int main()
     scanf("%[^\n]s",str);
     printf("Postfix expresion: ");
     for(int i=0;i<strlen(str);i++)
-    {
-        if(str[i]=='+'||str[i]=='-'||str[i]=='*'||str[i]=='/')
-        {
-            if(top==-1)
-            push(str[i]);
-            else
-            {
-                if(pri(s[top])>=pri(str[i]))
-                {
-                    printf("%c",pop());
-                    push(str[i]);
-                }
-                else
-                push(str[i]);
-            }
-        }
-        else if(str[i]=='(')
-        push(str[i]);
-        else if(str[i]==')')
-        {
-            while(s[top]!='(')
-            printf("%c",pop());
-            pop();
-        }
-        else if(str[i]>='a' && str[i]<='z')
-        printf("%c",str[i]);
-    }
+    convert(str[i]);
     while(top>=0)
     printf("%c",pop());
     return 0;
