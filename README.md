@@ -58,6 +58,12 @@ Contains code for basic concepts in Data Structures using C language.<br>
 
 →[Binary search tree](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/binary_search_tree.c)
 
+→[AVL tree](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/AVL_tree_and_its_operations.c)
+
+**Heap**
+
+→[Max heap](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/priority_heap-max_heap.c)
+
 **Searching**
 
 →[Linear search](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/Linear_search.c)
@@ -78,3 +84,16 @@ Contains code for basic concepts in Data Structures using C language.<br>
 
 →[Shell sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/shell_sort.c)
 
+→[Topolocial sorting](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/topological_sorting.c)
+
+**Hashing**
+
+→[Hashing_technique](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/hashing_technique.c)
+
+**Graph**
+
+→[Graph representation using adjacency matrix](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/graph_representation_using_adjacency_matrix.c)
+
+→[Depth first search](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/depth_first_search_graph_traversal-first-vertex-as-starting-node.c)
+
+→[Breath first search](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/breadth_first_search_graph_traversal.c)
