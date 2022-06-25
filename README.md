@@ -7,13 +7,13 @@ Contains code for basic concepts in Data Structures using C language. HAVE FUN!!
 
 **Linked list**
 
+<img src="https://miro.medium.com/max/800/1*xGgaEhVE5dMD-R8krQG4PQ.gif" align="right" width="50%" height="50%">
+
 →[Singly linked list](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/singly_linked_list.c)
 
 →[Singly linked list-internet reference 1](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/singly_linked_list-internet-1.c)
 
 →[Singly linked list-internet reference 2](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/singly_linked_list-internet-2.c)
-
-<img src="https://miro.medium.com/max/800/1*xGgaEhVE5dMD-R8krQG4PQ.gif" align="right" width="50%" height="50%">
 
 →[Doubly linked list](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/doubly_linked_list.c)
 
