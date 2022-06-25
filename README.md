@@ -1,5 +1,6 @@
 # Data-Structures-using-C
-Contains code for basic concepts in Data Structures using C language. HAVE FUN!!!
+Contains code for basic concepts in Data Structures using C language. 
+**HAVE FUN!!!**
 
 **Array**
 
