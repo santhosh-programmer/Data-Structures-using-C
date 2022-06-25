@@ -21,59 +21,59 @@ Contains code for basic concepts in Data Structures using C language. HAVE FUN!!
 
 **Stack**
 
-→[Operator_precedence_using_Stack_ADT](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/Operator_precedence_using_Stack_ADT.c)
+→[Operator precedence using Stack ADT](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/Operator_precedence_using_Stack_ADT.c)
 
-→[Array_implementation_of_stack](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/array_implementation_of_stack.c)
+→[Array implementation of stack](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/array_implementation_of_stack.c)
 
-→[Infix_to_postfix_conversion_using_stack_ADT](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/infix_to_postfix_conversion_using_stack_ADT.c)
+→[Infix to postfix conversion using stack ADT](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/infix_to_postfix_conversion_using_stack_ADT.c)
 
-→[Linked_list_implementaion_of_stack](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/linked_list_implementaion_of_stack.c)
+→[Linked list implementaion of stack](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/linked_list_implementaion_of_stack.c)
 
-→[Parenthesis_balanced_or_not](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/parenthesis_balanced_or_not.c)
+→[Parenthesis balanced or not](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/parenthesis_balanced_or_not.c)
 
-→[Evaluation_of_postfix_expression](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/evaluation_of_postfix_expression.c)
+→[Evaluation of postfix expression](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/evaluation_of_postfix_expression.c)
 
-→[Reverse_string_using_stack_ADT](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/reverse_string_using_stack_ADT.c)
+→[Reverse string using stack ADT](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/reverse_string_using_stack_ADT.c)
 
 **Polynomial**
 
-→[Addition_of_two_polynomials](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/addition_of_two_polynomials.c)
+→[Addition of two polynomials](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/addition_of_two_polynomials.c)
 
-→[Differentiatiion_of_two_polynomials](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/differentiatiion_of_two_polynomials.c)
+→[Differentiatiion of two polynomials](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/differentiatiion_of_two_polynomials.c)
 
-→[Subtraction_of_two_polynomials](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/subtraction_of_two_polynomials.c)
+→[Subtraction of two polynomials](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/subtraction_of_two_polynomials.c)
 
-→[Polynomial_ADT](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/polynomial_ADT.c)
+→[Polynomial ADT](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/polynomial_ADT.c)
 
 **Queue**
 
-→[Array_implementation_of_queue](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/array_implementation_of_queue.c)
+→[Array implementation of queue](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/array_implementation_of_queue.c)
 
-→[Linked_list_implementaion_of_queue](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/linked_list_implementaion_of_queue.c)
+→[Linked list implementaion of queue](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/linked_list_implementaion_of_queue.c)
 
-→[Array_implementation_of_circular_queue](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/array_implementation_of_circular_queue.c)
+→[Array implementation of circular queue](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/array_implementation_of_circular_queue.c)
 
 **Tree**
 
-→[Binary_search_tree](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/binary_search_tree.c)
+→[Binary search tree](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/binary_search_tree.c)
 
 **Searching**
 
-→[Linear_search](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/Linear_search.c)
+→[Linear search](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/Linear_search.c)
 
-→[Binary_search.](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/binary_search.c)
+→[Binary search.](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/binary_search.c)
 
 **Sorting**
 
-→[Bubble_sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/bubble_sort.c)
+→[Bubble sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/bubble_sort.c)
 
-→[Insertion_sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/insertion_sort.c)
+→[Insertion sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/insertion_sort.c)
 
-→[Merge_sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/merge_sort.c)
+→[Merge sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/merge_sort.c)
 
-→[Quick_sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/quick_sort.c)
+→[Quick sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/quick_sort.c)
 
-→[Selection_sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/selection_sort.c)
+→[Selection sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/selection_sort.c)
 
-→[Shell_sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/shell_sort.c)
+→[Shell sort](https://github.com/santhosh-p-official/Data-Structures-using-C/blob/main/searching%20and%20sorting/shell_sort.c)
 
